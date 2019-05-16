@@ -1,0 +1,14 @@
+name: BlockInspecter
+main: BlockInspecter\Main
+version: 1.0.0
+api: [3.0.0]
+load: POSTWORLD
+author: jhampt
+commands:
+ ib:
+  description: block inspecter command
+  usage: "/ib <inspect>"
+  permission: blockinspecter.command
+permissions:
+ blockinspecter.command:
+  default: op
