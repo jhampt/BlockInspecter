@@ -1,0 +1,7 @@
+---
+provider: "sqlite3"
+worlds:
+- "Spawn"
+- ""
+enable_command: "true"
+...
