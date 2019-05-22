@@ -1,7 +1,13 @@
 ---
+# supported providers Json and SQLite3 #
 provider: "sqlite3"
+
+# worlds which logged blocks broken and placed will be logged #
 worlds:
 - "Spawn"
 - ""
+
+# if set to "true" the blockinspecter command will be enabled #
+# if set to "false" the blockinspecter command will be disabled #
 enable_command: "true"
 ...
