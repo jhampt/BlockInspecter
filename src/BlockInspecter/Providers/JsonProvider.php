@@ -1,5 +1,5 @@
 <?php
-namespace BlockInspecter\Main\Providers;
+namespace BlockInspecter\Providers;
 use BlockInspecter\Main\Main;
 use pocketmine\block\Block;
 use pocketmine\Player;
