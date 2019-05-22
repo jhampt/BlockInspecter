@@ -3,8 +3,9 @@
 provider: "sqlite3"
 
 # worlds which logged blocks broken and placed will be logged #
+# world must be inserted here #
 worlds:
-- "Spawn"
+- "world"
 - ""
 
 # if set to "true" the blockinspecter command will be enabled #
