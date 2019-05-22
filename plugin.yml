@@ -1,5 +1,5 @@
 name: BlockInspecter
-main: BlockInspecter\Main\Main
+main: BlockInspecter\BlockInspecter\Main
 version: 1.0.0
 api: [3.0.0]
 load: POSTWORLD

@@ -1,5 +1,5 @@
 <?php
-namespace BlockInspecter\Main;
+namespace BlockInspecter\BlockInspecter\Main;
 use BlockInspecter\Providers\JsonProvider;
 use BlockInspecter\Providers\SQLite3Provider;
 use pocketmine\block\Block;
