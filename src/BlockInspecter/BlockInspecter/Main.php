@@ -35,7 +35,7 @@ class Main extends PluginBase{
     }
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
         if(!isset($args[0])){
-            $sender->sendMessage("use /ib inspect to enable block inspector");
+            $sender->sendMessage("Usage: /ib inspect to enable block inspector");
             return true;
         }
         $sub = array_shift($args);
@@ -50,7 +50,7 @@ class Main extends PluginBase{
             $sender->sendMessage("place or break blocks to see who built at its position");
             return true;
         }
-        $sender->sendMessage("use /ib inspect");
+        $sender->sendMessage("Usage: /ib inspect");
         return true;
     }
     public function checkInspect(Block $block, Player $player) : bool{
