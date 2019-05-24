@@ -1,6 +1,6 @@
 <?php
 namespace BlockInspecter\BlockInspecter\Providers;
-use BlockInspecter\Main\Main;
+use BlockInspecter\BlockInspecter\Main;
 use pocketmine\block\Block;
 use pocketmine\Player;
 class JsonProvider implements Provider{
