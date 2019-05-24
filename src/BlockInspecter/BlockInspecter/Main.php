@@ -1,7 +1,7 @@
 <?php
 namespace BlockInspecter\BlockInspecter\Main;
-use BlockInspecter\Providers\JsonProvider;
-use BlockInspecter\Providers\SQLite3Provider;
+use BlockInspecter\BlockInspecter\Providers\JsonProvider;
+use BlockInspecter\BlockInspecter\Providers\SQLite3Provider;
 use pocketmine\block\Block;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
