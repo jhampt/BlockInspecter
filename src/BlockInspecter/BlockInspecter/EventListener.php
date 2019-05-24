@@ -1,5 +1,5 @@
 <?php
-namespace BlockInspecter\BlockInspecter\Main;
+namespace BlockInspecter\BlockInspecter;
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\block\BlockPlaceEvent;
 use pocketmine\event\Listener;
