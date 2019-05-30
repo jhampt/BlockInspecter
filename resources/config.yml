@@ -7,7 +7,7 @@
 # my discord name: jhampt#0592 #
 
 # supported providers Json and SQLite3 #
-provider: "sqlite3"
+provider: "json"
 
 # worlds which logged blocks broken and placed will be logged #
 # world must be inserted here #
