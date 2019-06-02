@@ -1,7 +1,7 @@
 name: BlockInspecter
 main: BlockInspecter\BlockInspecter\Main
 version: 1.0.0
-api: [3.0.0]
+api: [3.0.0, 3.8.3]
 load: POSTWORLD
 author: jhampt
 commands:
