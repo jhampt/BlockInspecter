@@ -1,4 +1,3 @@
----
 # plugin by jhampt #
 # i do custom plugins you can contact me on discord #
 # you can contact me in the needs of suggestions to this plugin #
@@ -18,4 +17,3 @@ worlds:
 # if set to "true" the blockinspecter command will be enabled #
 # if set to "false" the blockinspecter command will be disabled #
 enable_command: "true"
-...
